@@ -1,16 +1,16 @@
 <h1 align="center">Telegram File Stream Bot</h1>
 <p align="center">
-  <a href="https://github.com/EverythingSuckz/TG-FileStreamBot">
-    <img src="https://socialify.git.ci/EverythingSuckz/TG-FileStreamBot/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&logo=https://telegra.ph/file/01385a9f4cf0419682b87.png&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
+  <a href="https://github.com/theseeker99/TG-FileStreamBot">
+    <img src="https://socialify.git.ci/theseeker99/TG-FileStreamBot/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&logo=https://telegra.ph/file/01385a9f4cf0419682b87.png&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
   </a>
   <p align="center">
     A Telegram bot to stream files to web
     <br />
     <a href="https://telegram.dog/TG_FileStreamBot"><strong>Demo Bot »</strong></a>
     <br />
-    <a href="https://github.com/EverythingSuckz/TG-FileStreamBot/issues">Report a Bug</a>
+    <a href="https://github.com/theseeker99/TG-FileStreamBot/issues">Report a Bug</a>
     |
-    <a href="https://github.com/EverythingSuckz/TG-FileStreamBot/issues">Request Feature</a>
+    <a href="https://github.com/theseeker99/TG-FileStreamBot/issues">Request Feature</a>
   </p>
 </p>
 
@@ -47,7 +47,7 @@
 ## About This Bot
 
 <p align="center">
-    <a herf="https://github.com/EverythingSuckz/TG-FileStreamBot">
+    <a herf="https://github.com/theseeker99/TG-FileStreamBot">
         <img src="https://telegra.ph/file/a8bb3f6b334ad1200ddb4.png" height="100" width="100" alt="Telegram Logo">
     </a>
 </p>
@@ -67,7 +67,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 Press the below button to fast deploy to Heroku
 
-- [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https%3A%2F%2Fgithub.com%2Fzxlp%2Ftgfs)
+- [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/theseeker99/TG-FileStreamBot)
 
 then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables.
 
@@ -175,7 +175,7 @@ You can contact either via my [Telegram Group](https://xn--r1a.click/WhyThisUser
 
 ## Copyright
 
-Copyright (C) 2022 [EverythingSuckz](https://github.com/EverythingSuckz) under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html).
+Copyright (C) 2022 [theseeker99](https://github.com/theseeker99) under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html).
 
 TG-FileStreamBot is Free Software: You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the
